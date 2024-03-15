@@ -28,12 +28,14 @@ Optionally, an Orders Calendar View can be implemented to display orders based o
 - It shows a list of orders, including details like order ID, customer name, order date, and status, using mock data.
 
 ### Output![Screenshot 2024-03-15 233525](https://github.com/SiddhantHarne/Enterprise-Resource-Planning-System/assets/161356850/72398bec-c16b-4ffe-834d-27d62ae3c1ad)
-![Screenshot 2024-03-15 233618](https://github.com/Siddha![Screenshot 2024-03-15 233654](https://github.com/SiddhantHarne/Enterprise-Resource-Planning-System/assets/161356850/83119d4a-7bf5-4114-8d2c-dc99055b5b09)
-ntHarne/Enterprise-Resource-Planning-System/assets/161356850/9c5e96cd-5d50-4c87-ae80-a355fad0ae1d)
+![Screenshot 2024-03-15 233618](https://github.com/SiddhantHarne/Enterprise-Resource-Planning-System/assets/161356850/0e5f4bce-fac2-405f-915a-701370b5ebb5)
+![Screenshot 2024-03-15 233654](https://github.com/SiddhantHarne/Enterprise-Resource-Planning-System/assets/161356850/827ca6e1-1b2e-4992-93af-8b01217e979b)
 ![Screenshot 2024-03-15 233804](https://github.com/SiddhantHarne/Enterprise-Resource-Planning-System/assets/161356850/41a12cdf-29d1-492e-94dd-6813a6d3d484)
 
 
 
+
 ### Orders Calendar View 
+
 - It is a calendar interface displaying orders based on their expected delivery dates.
 
